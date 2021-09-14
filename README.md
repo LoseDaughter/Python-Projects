@@ -1,2 +1,2 @@
 # SmallProjects
-For small programming problems and puzzles.
+For small programming problems and puzzles in Python.
